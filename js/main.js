@@ -24,7 +24,7 @@
   // FORM SETTINGS: paste your Formspree form URL here (see README.txt)
   // ---------------------------------------------------------------
   var FORMSPREE_ENDPOINT = 'https://formspree.io/f/mrpqyndl';
-  var WHATSAPP = '27732675875'; // your WhatsApp number in international format, e.g. 27732675875
+  var WHATSAPP = '27678008156'; // your WhatsApp number in international format, e.g. 27678008156
 
   function status(el, msg, ok) {
     el.textContent = msg;
